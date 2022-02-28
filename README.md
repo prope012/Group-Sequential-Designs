@@ -2,7 +2,7 @@
 An Alternative Metric for Evaluating the Potential Patient Benefit of Response-Adaptive Randomization Procedures
 
 # Purpose of the R Scripts:
-These programs allow the user to reporoduce our simulation study and find the maximum sample sizes and posterior probability stopping boundaries that control the frequentist properties of the Bayesian response-adaptive randomization designs (i.e. maintain type I error rate and power at the desired levels).
+These programs allow the user to reproduce our simulation study, compute our proposed design comparison metric, and find the maximum sample sizes and posterior probability stopping boundaries that control the frequentist properties of the Bayesian response-adaptive randomization designs (i.e. maintain type I error rate and power at the desired levels).
 
 # Brief Description of the R Scripts:
 
